@@ -27,3 +27,4 @@ This is where we come to the rescue by giving a simple interface to the user con
    [netflix]: <https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2Fnetflix&action=view&mode=dashboard&subView=model0000017b8b856c11_00000000>
    [Amazon]: <https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2Famazon_prime&action=view&mode=dashboard&subView=model0000017b87baae94_00000000>
    [Hotstar]: <https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FDISNEY&action=view&mode=dashboard&subView=model0000017b91df7790_00000002>
+   [Video]: <https://drive.google.com/drive/folders/1dJXr68B1wx93azlI_TivpOIJUYFvdy3A?usp=sharing>
